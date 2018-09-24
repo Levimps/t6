@@ -1,0 +1,5 @@
+E:\vs\source\Week6\DuckLibrary\bin\Debug\DuckLibrary.dll
+E:\vs\source\Week6\DuckLibrary\bin\Debug\DuckLibrary.pdb
+E:\vs\source\Week6\DuckLibrary\obj\Debug\DuckLibrary.csproj.CoreCompileInputs.cache
+E:\vs\source\Week6\DuckLibrary\obj\Debug\DuckLibrary.dll
+E:\vs\source\Week6\DuckLibrary\obj\Debug\DuckLibrary.pdb

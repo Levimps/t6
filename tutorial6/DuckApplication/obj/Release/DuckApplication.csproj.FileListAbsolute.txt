@@ -1,0 +1,17 @@
+E:\vs\source\Week6\DuckApplication\bin\Release\DuckApplication.exe.config
+E:\vs\source\Week6\DuckApplication\bin\Release\DuckApplication.exe.manifest
+E:\vs\source\Week6\DuckApplication\bin\Release\DuckApplication.application
+E:\vs\source\Week6\DuckApplication\bin\Release\DuckApplication.exe
+E:\vs\source\Week6\DuckApplication\bin\Release\DuckApplication.pdb
+E:\vs\source\Week6\DuckApplication\bin\Release\DuckLibrary.dll
+E:\vs\source\Week6\DuckApplication\bin\Release\DuckLibrary.pdb
+E:\vs\source\Week6\DuckApplication\obj\Release\DuckApplication.csprojAssemblyReference.cache
+E:\vs\source\Week6\DuckApplication\obj\Release\DuckApplication.Form1.resources
+E:\vs\source\Week6\DuckApplication\obj\Release\DuckApplication.Properties.Resources.resources
+E:\vs\source\Week6\DuckApplication\obj\Release\DuckApplication.csproj.GenerateResource.cache
+E:\vs\source\Week6\DuckApplication\obj\Release\DuckApplication.csproj.CoreCompileInputs.cache
+E:\vs\source\Week6\DuckApplication\obj\Release\DuckApplication.exe.manifest
+E:\vs\source\Week6\DuckApplication\obj\Release\DuckApplication.application
+E:\vs\source\Week6\DuckApplication\obj\Release\DuckApplication.csproj.CopyComplete
+E:\vs\source\Week6\DuckApplication\obj\Release\DuckApplication.exe
+E:\vs\source\Week6\DuckApplication\obj\Release\DuckApplication.pdb
